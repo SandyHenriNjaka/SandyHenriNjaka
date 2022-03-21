@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandyHenriNjaka
-- 👀 I’m interested in Web and Mobile Programming
-- 🌱 I’m currently learning React JS , Angular and Flutter
+- 👀 Actually a front-end developer
+- 🌱 I’m currently working with React JS , Angular and Flutter
 
 <!---
 SandyHenriNjaka/SandyHenriNjaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
